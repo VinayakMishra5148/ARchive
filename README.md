@@ -3,7 +3,7 @@
 **Archive** is an Augmented Reality (AR) mobile application designed to digitize and preserve India’s cultural heritage.  
 It allows users to experience 3D monuments in AR, explore detailed historical insights, and discover nearby attractions and hotels — all within a lightweight, low-bandwidth app built for accessibility.
 
-Developed by **Team ARchetypes** during the **Smart India Hackathon 2025 (Internal Round)**, the project was led by **Vinayak Mishra** and built in just 14 days.
+Developed by my team **ARchetypes** during the **Smart India Hackathon 2025**, the project was built in just 6 days.
 
 ---
 
